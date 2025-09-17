@@ -7,6 +7,11 @@ intents.message_content = True  # Enable reading message content
 # Create the bot client with the specified intents
 client = discord.Client(intents=intents)
 
+# List of greeting and farewell words
+greetings = ['hi', 'hello', 'hey', 'greetings', 'welcome', 'yo']
+farewells = ['bye', 'goodbye', 'cya', 'see you', 'later', 'farewell']
+brb_phrases = ['brb', 'be right back', 'coming back later', 'afk']
+
 @client.event
 async def on_ready():
     """This function runs when the bot is connected to Discord."""
@@ -19,11 +24,22 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    # Check if the message content is "hello" or "hi" (case-insensitive)
-    if message.content.lower() in ('hello', 'hi'):
-        # Get the user's name and send a greeting
+    # Normalize the message content to lowercase for easier checking
+    msg_content = message.content.lower()
+
+    # Check for greetings
+    if any(word in msg_content for word in greetings):
         user_name = message.author.name
-        await message.channel.send(f'Hello there, {user_name}!')
+        await message.channel.send(f'Hey there, {user_name}!')
+
+    # Check for farewells
+    if any(word in msg_content for word in farewells):
+        user_name = message.author.name
+        await message.channel.send(f'See you later, {user_name}!')
+
+    # Check for "be right back" phrases and tag the user
+    if any(phrase in msg_content for phrase in brb_phrases):
+        await message.channel.send(f'{message.author.mention} is away right now. They\'ll be back later!')
 
 # The token will be pulled from Replit's environment variables
 # This is a secure way to store secrets
