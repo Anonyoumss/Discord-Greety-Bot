@@ -15,7 +15,7 @@ This bot is a simple, powerful way to make your server more organized and engagi
 ---
 
 <p align="center">
-  <a href="#features"><img src="https://img.icons8.com/?size=100&id=85736&format=png&color=000000" alt="Key Features" title="Key Features" /></a>
+  <a href="#features"><img width="48" height="48" src="https://img.icons8.com/deco-glyph/48/automatic.png" alt="Key Features" title="Key Features" /></a>
   <span style="font-size:2em;"></span>
   <a href="#use-cases"><img src="https://img.icons8.com/?size=100&id=102134&format=png&color=000000" alt="Use Cases" title="Use Cases" /></a>
   <span style="font-size:2em;"></span>
