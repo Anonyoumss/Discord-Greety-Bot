@@ -2,19 +2,6 @@
 
 A bot that greets and says Hi to anybody who says HI or is new!
 
----
-
-<p align="center">
-  <a href="#features"><img src="https://img.icons8.com/?size=100&id=QWq7c8f4w1gJ&format=png&color=000000" alt="Features" title="Features" /></a>
-  <span style="font-size:2em;"></span>
-  <a href="#use-cases"><img src="https://img.icons8.com/?size=100&id=121327&format=png&color=000000" alt="Use Cases" title="Use Cases" /></a>
-  <span style="font-size:2em;"></span>
-  <a href="#mainpy"><img src="https://img.icons8.com/?size=100&id=102348&format=png&color=000000" alt="main.py" title="main.py" /></a>
-  <span style="font-size:2em;"></span>
-  <a href="#keepalivepy"><img src="https://img.icons8.com/?size=100&id=116315&format=png&color=000000" alt="keep_alive.py" title="keep_alive.py" /></a>
-</p>
-
----
 
 <details>
   <summary><h2 id="features">✨ Key Features</h2></summary>
