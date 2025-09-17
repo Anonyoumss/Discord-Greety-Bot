@@ -83,5 +83,5 @@ The "BRB" System: Stepping away? Just type brb and the bot will track your statu
 - **BRB:** Type "brb" to be added to the list; send any message to return.
 
 ---
-
+<iframe src="https://scribehow.com/embed/Create_and_Add_a_Greety_Bot_to_Your_Server__6gLXerxuQ7ySjCAHLmDFog" width="100%" height="800" allow="fullscreen" style="aspect-ratio: 1 / 1; border: 0; min-height: 480px"></iframe>
 > **Tip:** Click the images at the top to jump to each section!
