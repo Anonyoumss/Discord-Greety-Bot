@@ -19,7 +19,7 @@ This bot is a simple, powerful way to make your server more organized and engagi
   <span style="font-size:2em;"></span>
   <a href="#use-cases"><img src="https://img.icons8.com/?size=100&id=102134&format=png&color=000000" alt="Use Cases" title="Use Cases" /></a>
   <span style="font-size:2em;"></span>
-  <a href="#mainpy"><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="main.py (Python)" title="main.py (Python)" /></a>
+  <a href="#mainpy"><img width="100" height="100" src="https://img.icons8.com/bubbles/100/cursor.png" alt="main.py (Python)" title="main.py (Python)" /></a>
   <span style="font-size:2em;"></span>
   <a href="#keepalivepy"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/last-24-hours.png" alt="keep_alive.py (24/7)" title="keep_alive.py (24/7)" /></a>
 </p>
