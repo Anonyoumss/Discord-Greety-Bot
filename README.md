@@ -16,12 +16,12 @@ This bot is a simple, powerful way to make your server more organized and engagi
 
 <p align="center">
   <a href="#features"><img src="https://img.icons8.com/?size=100&id=85736&format=png&color=000000" alt="Key Features" title="Key Features" /></a>
-  <span style="font-size:2em;">➡️</span>
+  <span style="font-size:2em;"></span>
   <a href="#use-cases"><img src="https://img.icons8.com/?size=100&id=102134&format=png&color=000000" alt="Use Cases" title="Use Cases" /></a>
-  <span style="font-size:2em;">➡️</span>
+  <span style="font-size:2em;"></span>
   <a href="#mainpy"><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="main.py (Python)" title="main.py (Python)" /></a>
-  <span style="font-size:2em;">➡️</span>
-  <a href="#keepalivepy"><img src="https://img.icons8.com/?size=100&id=Ff1D1j6ayZGU&format=png&color=000000" alt="keep_alive.py (24/7)" title="keep_alive.py (24/7)" /></a>
+  <span style="font-size:2em;"></span>
+  <a href="#keepalivepy"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/last-24-hours.png" alt="keep_alive.py (24/7)" title="keep_alive.py (24/7)" /></a>
 </p>
 
 ---
@@ -39,7 +39,7 @@ This bot is a simple, powerful way to make your server more organized and engagi
 
 </details>
 
-<p align="center">⬇️</p>
+<p align="center"></p>
 
 <details>
   <summary><h2 id="use-cases">🛠️ Use Cases</h2></summary>
@@ -51,7 +51,7 @@ This bot is a simple, powerful way to make your server more organized and engagi
 
 </details>
 
-<p align="center">⬇️</p>
+<p align="center"></p>
 
 <details>
   <summary><h2 id="mainpy">🐍 main.py Overview</h2></summary>
@@ -63,7 +63,7 @@ This bot is a simple, powerful way to make your server more organized and engagi
 
 </details>
 
-<p align="center">⬇️</p>
+<p align="center"></p>
 
 <details>
   <summary><h2 id="keepalivepy">🕛 keep_alive.py (24/7)</h2></summary>
