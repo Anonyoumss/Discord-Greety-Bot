@@ -15,11 +15,11 @@ This bot is a simple, powerful way to make your server more organized and engagi
 ---
 
 <p align="center">
-  <a href="#features"><img width="48" height="48" src="https://img.icons8.com/deco-glyph/48/automatic.png" alt="Key Features" title="Key Features" /></a>
+  <a href="#features"><img width="100" height="100" src="https://img.icons8.com/stickers/100/automatic.png" alt="Key Features" title="Key Features" /></a>
   <span style="font-size:2em;"></span>
-  <a href="#use-cases"><img src="https://img.icons8.com/?size=100&id=102134&format=png&color=000000" alt="Use Cases" title="Use Cases" /></a>
+  <a href="#use-cases"><img width="100" height="100" src="https://img.icons8.com/bubbles/100/cursor.png" alt="Use Cases" title="Use Cases" /></a>
   <span style="font-size:2em;"></span>
-  <a href="#mainpy"><img width="100" height="100" src="https://img.icons8.com/bubbles/100/cursor.png" alt="main.py (Python)" title="main.py (Python)" /></a>
+  <a href="#mainpy"><img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="main.py (Python)" title="main.py (Python)" /></a>
   <span style="font-size:2em;"></span>
   <a href="#keepalivepy"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/last-24-hours.png" alt="keep_alive.py (24/7)" title="keep_alive.py (24/7)" /></a>
 </p>
