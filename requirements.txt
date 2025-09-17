@@ -1,0 +1,4 @@
+discord.py==2.3.2
+Flask==2.3.3
+discord.py==2.3.2
+Flask==2.3.3
