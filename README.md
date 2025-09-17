@@ -11,7 +11,6 @@ Know Who's Online: Just type online or offline to see who's around.
 
 The "BRB" System: Stepping away? Just type brb and the bot will track your status. It automatically knows when you're back and removes you from the list!
 
-This bot is a simple, powerful way to make your server more organized and engaging. It's built for reliability, so it's always there when you need it.
 ---
 
 <p align="center">
