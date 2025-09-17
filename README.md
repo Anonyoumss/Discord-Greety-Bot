@@ -2,6 +2,16 @@
 
 A bot that greets and says Hi to anybody who says HI or is new!
 
+🤖 Meet your new Discord friend!
+Make your server feel more alive with a bot that's both smart and friendly. This bot is designed to be your community's go-to for quick info and fun interactions.
+
+Friendly & Smart: The bot greets members as they join and says goodbye when they leave, making everyone feel welcome.
+
+Know Who's Online: Just type online or offline to see who's around.
+
+The "BRB" System: Stepping away? Just type brb and the bot will track your status. It automatically knows when you're back and removes you from the list!
+
+This bot is a simple, powerful way to make your server more organized and engaging. It's built for reliability, so it's always there when you need it.
 ---
 
 <p align="center">
